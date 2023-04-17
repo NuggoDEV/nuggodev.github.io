@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #333; /* Adjust this to your preferred background color */
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make sure the body element takes the full viewport height */
+  }
+  
+  main {
+    text-align: center;
+  }
+  
+  .content-container {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 2rem; /* Adjust this value to make the text smaller or larger */
+    color: #fff; /* Change the text color to white */
+    margin-bottom: 0.5rem;
+  }
+  
+  h2 {
+    color: #fff;
+    margin-bottom: 0.5rem;
+  }
+  
+  .instructions {
+    color: #fff;
+  }
+  
